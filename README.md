@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&type=waving)
 
 ### 블로그
-<a href="https://bbogle2.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF3E3E?style= for-the-badge&logo=tistory&logoColor=FFFFFF"/></a><br/>
-<a href="https://https://velog.io/@bbogle2/"><img src="https://img.shields.io/badge/velog-20C997?style= for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://bbogle2.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF3E3E?style= for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <br/>
 ### 기술 스택
 <div>
