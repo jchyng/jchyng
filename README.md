@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?color=gradient&type=waving)
+![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&text=jchyng%20github!&height=220)
 
 ### 블로그
 <a href="https://bbogle2.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF3E3E?style= for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
