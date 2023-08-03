@@ -1,21 +1,29 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&type=waving&text=jchyng%20github!&height=220)
+### Hi there 👋, my name is ChanYeong
+#### I am Student, majoring CSE.
+I am a college student who is interested in spring boot and AWS.
 
-### 블로그
-<a href="https://bbogle2.tistory.com/"><img src="https://img.shields.io/badge/티스토리-FF3E3E?style= for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
+### Blog
+[<img src='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' alt='blogger' height='40'>](https://bbogle2.tistory.com/)
 <br/>
-### 기술 스택
+### Skill
 <div>
   <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=Java&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style= for-the-badge&logo=springboot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style= for-the-badge&logo=mysql&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style= for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style= for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
 </div>
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchyng&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchyng&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchyng&layout=compact)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyi0342)](https://solved.ac/yyi0342)
+
+
+  
+
+
+  
 
 
