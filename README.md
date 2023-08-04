@@ -11,6 +11,8 @@ I am a college student who is interested in spring boot and AWS.
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style= for-the-badge&logo=springboot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style= for-the-badge&logo=mysql&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style= for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MSA-orange?style=for-the-badge&logo=msa&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/CICD-yellow?style=for-the-badge&logo=cicd&logoColor=FFFFFF">
 </div>
 <br/>
 
