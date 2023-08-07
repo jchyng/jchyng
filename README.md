@@ -19,10 +19,6 @@ I am a college student who is interested in spring boot and AWS.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jchyng&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchyng&layout=compact)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyi0342)](https://solved.ac/yyi0342)
-
-
   
 
 
