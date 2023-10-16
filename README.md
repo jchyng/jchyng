@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=gitkraken&logoColor=white">
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white">
+</div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jchyng&hide=stars&show_icons=true"></a>
