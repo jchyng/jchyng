@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=FFFFFF">
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/JPA-navy?style=flat&logo=JPA&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/MyBatis-333333?style=flat&logo=MyBatis&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=dotnet&logoColor=white"/>
