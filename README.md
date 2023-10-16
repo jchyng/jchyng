@@ -19,6 +19,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JPA-navy?style=flat&logo=JPA&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/MyBatis-333333?style=flat&logo=MyBatis&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat&logo=apachemaven&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat&logo=dotnet&logoColor=white"/>
