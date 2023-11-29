@@ -69,31 +69,29 @@
 
   <h3>💻 활동</h3>
 
-<div style="max-width: 300px; word-wrap: break-word;">
-    <div>
-        <strong>2023.06.15 ~ 2023.07.25</strong><br>
-        멀티캠퍼스 자바 백엔드 12회차 팀 프로젝트 경진대회<br>
-        뮤지컬에 대한 정보를 확인하고 유저 간의 커뮤니케이션을 활성화하기 위한 뮤지컬 커뮤니티 제작<br>
-        🏆 <a href="https://github.com/jchyng/Weiver#-%EC%88%98%EC%83%81%EB%82%B4%EC%97%AD" target="_blank">최우수상</a>
-        <br><br><br>
-    </div>
-    <div>
-        <strong>2023.06.21 ~ 2023.06.23</strong><br>
-        Microsoft 주최 해커그라운드<br>
-        대구 지역 청년들이 받을 수 있는 혜택 정보를 알려주는 청년 정책 알림이 제작<br>
-        본선 진출
-        <br><br><br>
-    </div>
-    <div>
-        <strong>2023.06.02</strong><br>
-        한국정보기술학회 논문경진대회<br>
-        건강한 수면과 운동 등의 자기계발을 통해 문어 캐릭터를 육성하는 다마고치 게임 앱 제작 및 기대효과와 어플리케이션 안정성 테스트 결과를 논문으로 투고<br>
-        🏆 <a href="https://github.com/jchyng/OctoDream-back/blob/main/%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%83%81%EC%9E%90%EB%A3%8C.pdf" target="_blank">은상</a>
-        <br><br><br>
-    </div>
-</div>
-
-<br><br><br>
+  <div style="max-width: 300px; word-wrap: break-word;">
+      <div>
+          <strong>2023.06.15 ~ 2023.07.25</strong><br>
+          멀티캠퍼스 자바 백엔드 12회차 팀 프로젝트 경진대회<br>
+          뮤지컬에 대한 정보를 확인하고 유저 간의 커뮤니케이션을 활성화하기 위한 뮤지컬 커뮤니티 제작<br>
+          🏆 <a href="https://github.com/jchyng/Weiver#-%EC%88%98%EC%83%81%EB%82%B4%EC%97%AD" target="_blank">최우수상</a>
+          <br><br><br>
+      </div>
+      <div>
+          <strong>2023.06.21 ~ 2023.06.23</strong><br>
+          Microsoft 주최 해커그라운드<br>
+          대구 지역 청년들이 받을 수 있는 혜택 정보를 알려주는 청년 정책 알림이 제작<br>
+          본선 진출
+          <br><br><br>
+      </div>
+      <div>
+          <strong>2023.06.02</strong><br>
+          한국정보기술학회 논문경진대회<br>
+          건강한 수면과 운동 등의 자기계발을 통해 문어 캐릭터를 육성하는 다마고치 게임 앱 제작 및 기대효과와 어플리케이션 안정성 테스트 결과를 논문으로 투고<br>
+          🏆 <a href="https://github.com/jchyng/OctoDream-back/blob/main/%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%83%81%EC%9E%90%EB%A3%8C.pdf" target="_blank">은상</a>
+          <br><br><br>
+      </div>
+  </div>
 
   <h3>✅ Commit</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jchyng&show_icons=true&theme=transparent">
