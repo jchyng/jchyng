@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&&height=180&fontsize=16&text=ChanYeongJung&theme=transparent&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&&height=360&fontsize=16&text=ChanYeongJung&theme=transparent&animation=fadeIn">
 
   <h3>📚 Blog </h3>
   <a href="https://bbogle2.tistory.com" target="_blank">
