@@ -39,7 +39,7 @@
   
   <h4>DevOps</h4>
   <img src="https://img.shields.io/badge/docker-2496ED?style= for-the-badge&logo=docker&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style= for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style= for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=FFFFFF">
   
   <h4>Frontend</h4>
