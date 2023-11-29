@@ -65,6 +65,42 @@
     <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
   </div>
+
+  </br>
+  </br>
+  </br>
+
+  <h3>💻 활동</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>기간</th>
+        <th>활동 명</th>
+        <th>내용</th>
+        <th>결과</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2023.06.15 ~ 2023.07.25</td>
+        <td>멀티캠퍼스 자바 백엔드 12회차 팀 프로젝트 경진대회</td>
+        <td>뮤지컬에 대한 정보를 확인하고 유저 간의 커뮤니케이션을 활성화하기 위한 뮤지컬 커뮤니티 제작</td>
+        <td><a href="https://github.com/jchyng/Weiver#-%EC%88%98%EC%83%81%EB%82%B4%EC%97%AD" target="_blank">최우수상</a></td>
+      </tr>
+      <tr>
+        <td>2023.06.21 ~ 2023.06.23</td>
+        <td>Microsoft 주최 해커그라운드</td>
+        <td>대구 지역 청년들이 받을 수 있는 혜택 정보를 알려주는 청년 정책 알림이 제작</td>
+        <td>본선 진출</td>
+      </tr>
+      <tr>
+        <td>2023.06.02</td>
+        <td>한국정보기술학회 논문경진대회</td>
+        <td>건강한 수면과 운동 등의 자기계발을 통해 문어 캐릭터를 육성하는 다마고치 게임 앱 제작 및 기대효과와 어플리케이션 안정성 테스트 결과를 논문으로 투고</td>
+        <td><a href="https://github.com/jchyng/OctoDream-back/blob/main/%EB%85%BC%EB%AC%B8%20%EC%88%98%EC%83%81%EC%9E%90%EB%A3%8C.pdf" target="_blank">은상</a></td>
+      </tr>
+    </tbody>
+  </table>
   
   </br>
   </br>
