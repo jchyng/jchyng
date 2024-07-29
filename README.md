@@ -61,8 +61,8 @@
   <h3>🟨 DevOps</h3>
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/docker-2496ED?style= for-the-badge&logo=docker&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style= for-the-badge&logo=jenkins&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style= for-the-badge&logo=linux&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style= for-the-badge&logo=jenkins&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style= for-the-badge&logo=linux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style= for-the-badge&logo=amazonaws&logoColor=FFFFFF"/>
     
   <h4>Experienced Skills</h4>
