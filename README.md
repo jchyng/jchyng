@@ -51,12 +51,11 @@
   <h3>🟥 Database</h3>
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=FFFFFF"/>
   <h4>Experienced Skills</h4>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>    
-
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=FFFFFF"/>
   <br><br>
   
   <h3>🟨 DevOps</h3>
