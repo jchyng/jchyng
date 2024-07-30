@@ -9,7 +9,7 @@
 
   <h2>🌈 Tech Stack </h2>
   
-  <h3>🟩 Backend</h3>
+  <h3>Backend</h3>
   <h4>Mainly used skills</h4>
   <div>
     <img src="https://img.shields.io/badge/JAVA-blue?style=flat&logoColor=FFFFFF">
@@ -39,7 +39,7 @@
 
   <br/>
   
-  <h3>⬛ Test</h3>
+  <h3>Test</h3>
   <h4>Mainly used skills</h4>
   
   <h4>Experienced Skills</h4>
@@ -48,7 +48,7 @@
   
   <br/><br/>
   
-  <h3>🟥 Database</h3>
+  <h3>Database</h3>
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/>
   <h4>Experienced Skills</h4>
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=FFFFFF"/>
   <br><br>
   
-  <h3>🟨 DevOps</h3>
+  <h3>DevOps</h3>
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/docker-2496ED?style= for-the-badge&logo=docker&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style= for-the-badge&logo=jenkins&logoColor=000000"/>
@@ -73,7 +73,7 @@
 
   <br><br>
   
-  <h3>🟧 Frontend</h3>
+  <h3>Frontend</h3>
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <br><br>
 
-  <h3>⬜ IDE & Tool</h3> 
+  <h3>IDE & Tool</h3> 
   <h4>Mainly used skills</h4>
   <img src="https://img.shields.io/badge/intelliJ-512BD4?style=flat&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
