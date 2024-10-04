@@ -132,5 +132,9 @@
   <br><br>
   <h3>✅ Commit</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jchyng&show_icons=true&theme=transparent">
+  
+  <h3>🥇 BaekJoon</h3>  
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyi0342)](https://solved.ac/yyi0342/)
 </div>
 
