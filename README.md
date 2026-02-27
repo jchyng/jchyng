@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=180&fontsize=30&text=ChanYeong%20Jung&theme=transparent&animation=fadeIn" />
-
-  <h2>🛠️ Tech Stack</h2>
-
+  
   <h3>Backend</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
